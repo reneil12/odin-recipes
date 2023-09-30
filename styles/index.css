@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.title{
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+    margin: 30px;
+}
+
+.recipe-section{
+    align-items: center;
+}
+.recipe{
+    display: inline-block;
+    vertical-align: top;
+    width: 350px;
+    height: 400px;
+    margin: 10px 59px;
+    padding: 10px;
+    border: 1px solid black;
+    
+}
+
+.img-recipe{
+    display: block;
+    width: 325px;
+    height: 300px;
+    margin: 0 auto 20px;
+}
+
+a{
+    display: block;
+    font-size: 36px;
+    text-align: center;
+}
